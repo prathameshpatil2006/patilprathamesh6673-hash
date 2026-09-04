@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Prathamesh Patil</h1>
 
-<h3 align="center">B.Tech Artificial Intelligence & Machine Learning Student • Full Stack Developer</h3>
+<h3 align="center">B.Tech Artificial Intelligence & Machine Learning Student </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Student;Full+Stack+Developer;React+%7C+Node.js+%7C+Java+%7C+Python;Building+Real-World+Applications;Always+Learning+%26+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Student;Python+Developer;React+%7C+Node.js+%7C+Java+%7C+Python;Building+Real-World+Applications;Always+Learning+%26+Building!" alt="Typing SVG" />
 </p>
 
 <p align="center">
