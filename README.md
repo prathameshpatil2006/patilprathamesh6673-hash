@@ -155,7 +155,7 @@
 - 🚀 Building Modern Full Stack Applications
 - 🤖 Artificial Intelligence & Machine Learning
 - ⚛️ React.js Development
-- 💻 Backend Development
+- 💻 Frontend Development
 - 🧠 Learning Data Structures & Algorithms
 - 🌍 Open Source Contributions
 
