@@ -70,7 +70,7 @@
 
 # 💬 Ask Me About
 
-**Java • Python • JavaScript • React.js • Node.js • MySQL • MongoDB • HTML • CSS • Tailwind CSS**
+** Python • JavaScript • MySQL • MongoDB • HTML • CSS • Tailwind CSS**
 
 ---
 
