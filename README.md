@@ -34,11 +34,9 @@
 
 # 📌 Current Goals
 
-- 🚀 Build scalable Full Stack Applications
 - 🤖 Build practical AI & Machine Learning Projects
 - 💻 Improve Backend Development Skills
 - 🧠 Strengthen Data Structures & Algorithms
-- 🌍 Contribute to Open Source
 - 📚 Build a strong developer portfolio
 - 💼 Prepare for Software Engineering Opportunities
 
@@ -49,9 +47,8 @@
 - 🤖 Machine Learning
 - 🧠 AI Integration
 - ⚛️ React.js
-- 🌐 Full Stack Development
 - ⚙️ Backend Development
-- 🗄️ Database Management
+- 💻 Python libraries
 - 🚀 Modern Web Technologies
 
 ---
@@ -62,8 +59,6 @@
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - ⚙️ Frontend Engineering
-- 🔐 Cyber Security
-- 🌍 Open Source
 - 📱 Application Development
 
 ---
